@@ -1,0 +1,5 @@
+"address","city;,"state","zipCode","numberOfUnits","unitNumber","price","haveKeys","squareFeet","numberOfBathrooms"
+"1460 Broadway","New York","NY","10036","10","555","1000","true","800","1"
+"1460 Broadway","New York","NY","10036","10","333","1200","false","900","1.5"
+"144 Grand Street","New York","NY","10013","14","666","1300","false","1000","2"
+"144 Grand Street","New York","NY","10013","14","777","1400","true","1100","2.5"
